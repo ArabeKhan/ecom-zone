@@ -1,0 +1,25 @@
+.product {
+  display: flex;
+  border-bottom: 1px dotted grey;
+  margin: 0px 10px 5px 0px;
+  padding: 10px 5px;
+}
+.productInfo {
+  padding: 10px 20px;
+}
+
+.productInfo h4 {
+  color: blue;
+  font-weight: 500;
+}
+
+.productInfo button {
+  padding: 10px 25px;
+  color: white;
+  font-size: 12px;
+  font-weight: 700;
+  background-color: rgb(41, 41, 68);
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+}
